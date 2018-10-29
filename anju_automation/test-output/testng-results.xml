@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[homepage displayed]]>
+    </line>
+    <line>
+      <![CDATA[orange hrm page displayed]]>
+    </line>
+    <line>
+      <![CDATA[add employee]]>
+    </line>
+    <line>
+      <![CDATA[sign off successfull and orange page displayed]]>
+    </line>
+  </reporter-output>
+  <suite name="lakki" duration-ms="12705" started-at="2018-10-23T07:56:55Z" finished-at="2018-10-23T07:57:08Z">
+    <groups>
+    </groups>
+    <test name="hrm" duration-ms="12705" started-at="2018-10-23T07:56:55Z" finished-at="2018-10-23T07:57:08Z">
+      <class name="frameworkLIB.businessfunstionsex2">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:frameworkLIB.businessfunstionsex2@18a00e3]" name="openapp" duration-ms="12688" started-at="2018-10-23T13:26:55Z" finished-at="2018-10-23T13:27:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[homepage displayed]]>
+            </line>
+            <line>
+              <![CDATA[orange hrm page displayed]]>
+            </line>
+            <line>
+              <![CDATA[add employee]]>
+            </line>
+            <line>
+              <![CDATA[sign off successfull and orange page displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+      </class> <!-- frameworkLIB.businessfunstionsex2 -->
+      <class name="frameworkLIB.sreebusiness">
+        <test-method status="PASS" signature="method2()[pri:0, instance:frameworkLIB.sreebusiness@e9a829]" name="method2" is-config="true" duration-ms="16" started-at="2018-10-23T13:26:55Z" finished-at="2018-10-23T13:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:frameworkLIB.sreebusiness@e9a829]" name="method3" duration-ms="2850" started-at="2018-10-23T13:26:55Z" finished-at="2018-10-23T13:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method()[pri:0, instance:frameworkLIB.sreebusiness@e9a829]" name="method" is-config="true" duration-ms="0" started-at="2018-10-23T13:26:58Z" finished-at="2018-10-23T13:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- frameworkLIB.sreebusiness -->
+    </test> <!-- hrm -->
+  </suite> <!-- lakki -->
+</testng-results>

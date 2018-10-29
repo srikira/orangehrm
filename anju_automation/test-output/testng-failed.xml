@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [lakki]" parallel="classes">
+  <test name="hrm(failed)" parallel="classes">
+    <classes>
+      <class name="frameworkLIB.businessfunstionsex2">
+        <methods>
+          <include name="openapp"/>
+        </methods>
+      </class> <!-- frameworkLIB.businessfunstionsex2 -->
+    </classes>
+  </test> <!-- hrm(failed) -->
+</suite> <!-- Failed suite [lakki] -->
